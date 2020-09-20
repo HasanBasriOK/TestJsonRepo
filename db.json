@@ -1,0 +1,18 @@
+{ "havaDurumlari": [
+    {
+      "id": 1
+      "sehir": "Istanbul",
+      "havaDurumu": "34"
+    },
+     {
+      "id": 1
+      "sehir": "Afyon",
+      "havaDurumu": "03"
+    },
+     {
+      "id": 1
+      "sehir": "Yozgat",
+      "havaDurumu": "66"
+    }
+  ]
+}
